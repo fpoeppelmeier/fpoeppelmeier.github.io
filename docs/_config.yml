@@ -28,11 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fpoeppelmeier
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
-minimal_mistakes_skin: "default"
+# minimal_mistakes_skin: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
