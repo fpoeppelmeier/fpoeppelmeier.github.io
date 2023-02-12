@@ -13,7 +13,6 @@ I am currently a Marie Sklodowska-Curie fellow at the University of Bern, Switze
 
 [Climate and Environmental Physics, University of Bern](https://www.climate.unibe.ch)
 
-<br/>
 
 ___
 
