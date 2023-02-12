@@ -11,15 +11,12 @@ ____
 
 **Contact**
 
-Frerk Pöppelmeier  
+{% include module.html image_path="assets/Portraet_Poeppelmeier.jpeg" title="Contact" description="Frerk Pöppelmeier  " %}
 frerk.poeppelmeier@unibe.ch  
   
 Climate and Environmental Physics, Physics Insitute  
 University of Bern
 
-{% include module.html image_path="assets/Portraet_Poeppelmeier.jpeg" title="Contact" description="Frerk Pöppelmeier \n frerk.poeppelmeier@unibe.ch  " %}
-
 ___
 
-![image](assets/Portraet_Poeppelmeier.jpeg){: style="float; right": width="20%"; margin-right: 10em}
 
