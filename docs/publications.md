@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
+[**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
+[**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
+
 ### 2023
 - **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience, accepted.
 - Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-Moses1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development, accepted.
