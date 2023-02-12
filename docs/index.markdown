@@ -8,7 +8,12 @@ layout: page
 <div style="text-align: justify">
 I am currently a Marie Sklodowska-Curie fellow at the University of Bern, Switzerland working on the reconstruction of past circulation and climate during the Quaternary. As a geochemist and paleoceanographer I combine direct reconstructions from marine sediments with model simulations.
 </div>
-<br/><br/>
+
+<br/>
+
+[Climate and Environmental Physics, University of Bern](https://www.climate.unibe.ch)
+
+<br/>
 
 ___
   
