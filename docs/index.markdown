@@ -10,10 +10,9 @@ I am currently a Marie Sklodowska-Curie fellow at the University of Bern, Switze
 <br/><br/>
 
 ___
-
+  
 {% include module.html image_path="assets/Portraet_Poeppelmeier.jpeg" title="Contact" description="Frerk Pöppelmeier  " %}
 frerk.poeppelmeier@unibe.ch  
-  
 Climate and Environmental Physics, Physics Insitute  
 Oeschger Centre for Climate Change Research  
 University of Bern  
