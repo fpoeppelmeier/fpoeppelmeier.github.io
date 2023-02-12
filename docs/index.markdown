@@ -8,7 +8,8 @@ layout: page
 I am currently a Marie Sklodowska-Curie fellow at the University of Bern, Switzerland working on the reconstruction of past circulation and climate during the Quaternary. As a geochemist and paleoceanographer I combine direct reconstructions from marine sediments with model simulations.
 
 <br/><br/>
-____
+
+___
 
 {% include module.html image_path="assets/Portraet_Poeppelmeier.jpeg" title="Contact" description="Frerk Pöppelmeier  " %}
 frerk.poeppelmeier@unibe.ch  
