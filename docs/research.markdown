@@ -4,13 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-*Under construction*  
 
 ### Understanding glacial-interglacial cycles during the Mid-Pleistocene Transition
 The recent geological past is characterized by the cyclic growth and decay of large continental ice-sheets in the northern hemisphere driven by changes in incoming solar radiation associated with Earth’s orbital configuration. These glacial-interglacial cycles initially responded to the 41,000 year pacing of Earth’s axial tilt, but about 1 million years ago this periodicity slowed down to ~100,000 year cycles without any discernible change in orbital parameters, thus indicating fundamental shifts in internal feedback mechanisms. My Marie-Curie project aims towards a comprehensive understanding of this unique climate transition through the employment of the Bern3D Earth System model.
 
 <p align="center">
-    <img src="assets/MPT_LR04.png" alt="MPT LR04"/>
+    <img src="assets/MPT_LR04.jpg" alt="MPT LR04"/>
 </p>
 
 In order to enable fully dynamical simulations of glacial-interglacial cycles I couple an ice-sheet model with the exceptionally computational efficient Bern3D Earth system model of intermediate complexity. Further, newly compiled paleoclimatic reconstructions will form important constraints on the past climate that can be directly compared to the wide palette of tracers implemented in the Bern3D model.
