@@ -27,6 +27,6 @@ University of Bern
 
 ___
 
-
+  
 
 [Climate and Environmental Physics, University of Bern](https://www.climate.unibe.ch)
