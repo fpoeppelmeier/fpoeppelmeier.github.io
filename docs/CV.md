@@ -9,8 +9,8 @@ permalink: /CV/
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <tbody>
 <tr>
@@ -36,8 +36,8 @@ permalink: /CV/
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <tbody>
 <tr>
