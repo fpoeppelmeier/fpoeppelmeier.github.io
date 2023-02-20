@@ -21,7 +21,8 @@ frerk.poeppelmeier@unibe.ch
 Climate and Environmental Physics, Physics Insitute  
 Oeschger Centre for Climate Change Research  
 University of Bern  
-3012 Bern, Switzerland
+3012 Bern, Switzerland  
+Tel.: +41 31 684 4463
 
 <br/>
 
