@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2023
 - **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience, accepted.
-- Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-Moses1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development, accepted.
+- Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating marine neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-MOSES1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development 16, 1231-1264. doi:[10.5194/gmd-16-1231-2023](https://doi.org/10.5194/gmd-16-1231-2023)
 
 ### 2022
 - **Pöppelmeier, F.**, Lippold, J., Blaser, P., Gutjahr, M., Frank, M., Stocker, T. F. (2022). Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment. Quaternary Science Reviews 279, 107404. doi:[10.1016/j.quascirev.2022.107404](https://doi.org/10.1016/j.quascirev.2022.107404)
