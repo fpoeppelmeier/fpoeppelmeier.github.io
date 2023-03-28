@@ -8,7 +8,7 @@ permalink: /publications/
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
 ### 2023
-- **Pöppelmeier, F.**, Baggenstos, D., Grimmer, M., Liu, Z., Schmitt, J., Fischer, H., & Stocker, T. F. (2023). The effect of past saturation changes on noble gas reconstructions of mean ocean temperature. Geophysical Research Letters, accepted.
+- **Pöppelmeier, F.**, Baggenstos, D., Grimmer, M., Liu, Z., Schmitt, J., Fischer, H., & Stocker, T. F. (2023). The effect of past saturation changes on noble gas reconstructions of mean ocean temperature. Geophysical Research Letters 50, e2022GL102055. doi:[10.1029/2022GL102055](https://doi.org/10.1029/2022GL102055)
 - **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience, accepted.
 - Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating marine neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-MOSES1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development 16, 1231-1264. doi:[10.5194/gmd-16-1231-2023](https://doi.org/10.5194/gmd-16-1231-2023)
 
