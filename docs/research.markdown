@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+[Mid-Pleistocene Transition](#understanding-glacial-interglacial-cycles-during-the-mid-pleistocene-transition) | [Trace Metals](#trace-metals-as-proxies-for-past-water-masses) | [AMOC Stability](#stability-of-the-atlantic-meridional-overturning-circulation)
+
 
 ### Understanding glacial-interglacial cycles during the Mid-Pleistocene Transition
 The recent geological past is characterized by the cyclic growth and decay of large continental ice-sheets in the northern hemisphere driven by changes in incoming solar radiation associated with Earth’s orbital configuration. These glacial-interglacial cycles initially responded to the 41,000 year pacing of Earth’s axial tilt, but about 1 million years ago this periodicity slowed down to ~100,000 year cycles without any discernible change in orbital parameters, thus indicating fundamental shifts in internal feedback mechanisms. My Marie-Curie project aims towards a comprehensive understanding of this unique climate transition through the employment of the Bern3D Earth System model.
@@ -30,7 +32,10 @@ Recently (Pöppelmeier et al., 2021), I also started working on the marine chrom
 ![Chromium](assets/Chromium.png)
 
 
-Other trace metals and ocean proxies that I'm interested in and that we can expicitly simulate in the Bern3D model are protactinium and thorium (indicator of circulation strength), stable carbon isotopes (indicator of water masses), and radiocarbon (indicator of water mass age and provenance).
+Other trace metals and ocean proxies that I'm interested in and that we can explicitly simulate in the Bern3D model are protactinium and thorium (indicator of circulation strength), stable carbon isotopes (indicator of water masses), and radiocarbon (indicator of water mass age and provenance).
 
 ### Stability of the Atlantic Meridional Overturning Circulation
- 
+
+The Atlantic meridional overturning circulation (AMOC) is a critical constituent of inter-hemispheric redistribution of heat and carbon, and is considered a climate tipping point that might have been crossed in the past. Recent studies suggest that the AMOC transitioned to an anomalous weak state since the mid-twentieth century and could approach a tipping point towards collapse even within the twenty-first century. To better constrain the stability of the AMOC, I am investigating its past behavior by combining reconstructons of proxies (see also above) and combine these with model simulations. For more details see our recent [paper](https://doi.org/10.1038/s41561-023-01140-3).
+
+![AMOC](assets/AMOC.png)
