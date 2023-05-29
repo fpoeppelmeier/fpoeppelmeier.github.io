@@ -20,13 +20,13 @@ In order to enable fully dynamical simulations of glacial-interglacial cycles I 
 
 Many trace metals dissolved in seawater can be used as proxies for various water mass characteristics and are important tools for the reconstruction of the past and present ocean state.
   
-For instance, over the past decades, neodymium (Nd) isotopes emerged as a valuable geochemical tracer of water mass provenance. However, many aspects of the marine Nd cycle remain only poorly understood. I therefore try to further our understanding of this crucial proxy by reconstructing it from marine sediments and simulating the Nd cycle comprehensively in the Bern3D model under various boundary condition.
+For instance, over the past decades, neodymium (Nd) isotopes emerged as a valuable geochemical tracer of water mass provenance. However, many aspects of the marine Nd cycle remain only poorly understood. I therefore try to further our understanding of this crucial proxy by reconstructing it from marine sediments and simulating the Nd cycle comprehensively in the Bern3D model under various boundary condition (see [Pöppelmeier et al., 2022](https://doi.org/10.1016/j.quascirev.2022.107404)).
 
 
 ![Nd_cycle](assets/Nd_sketch.png)
 
 
-Recently (Pöppelmeier et al., 2021), I also started working on the marine chromium (Cr) cycle. Cr and its isotopes hold great potential as a tracer for past oxygenation and marine biological acitivity. I implemented this tracer in the Bern3D model and performed first assessments on the first-order controls that shape the global distribution of dissolved Cr and its two most important oxidation states Cr(III) and Cr(VI).
+Recently ([Pöppelmeier et al., 2021](https://doi.org/10.5194/bg-18-5447-2021)), I also started working on the marine chromium (Cr) cycle. Cr and its isotopes hold great potential as a tracer for past oxygenation and marine biological acitivity. I implemented this tracer in the Bern3D model and performed first assessments on the first-order controls that shape the global distribution of dissolved Cr and its two most important oxidation states Cr(III) and Cr(VI).
 
 
 ![Chromium](assets/Chromium.png)
