@@ -18,9 +18,9 @@ In order to enable fully dynamical simulations of glacial-interglacial cycles I 
 
 ### Trace metals as proxies for past water masses
 
-Many trace metals dissolved in seawater can be used as proxies for various water mass characteristics and are important tools for the reconstruction of the past and present ocean state.
+Many dissolved trace metals in seawater possess the potenital to serve as proxies for different water mass characteristics, thus playing a crucial role in reconstructing the past and present state of the ocean.
   
-For instance, over the past decades, neodymium (Nd) isotopes emerged as a valuable geochemical tracer of water mass provenance. However, many aspects of the marine Nd cycle remain only poorly understood. I therefore try to further our understanding of this crucial proxy by reconstructing it from marine sediments and simulating the Nd cycle comprehensively in the Bern3D model under various boundary condition (see [Pöppelmeier et al., 2022](https://doi.org/10.1016/j.quascirev.2022.107404)).
+For instance, in recent decades, neodymium (Nd) isotopes have emerged as a valuable geochemical tracer for determining the provenance of water masses. However, many aspects of the marine Nd cycle remain only poorly understood. I therefore try to further our understanding of this crucial proxy by reconstructing it from marine sediments and comprehensively simulating the Nd cycle using the Bern3D model under various boundary condition (see [Pöppelmeier et al., 2022](https://doi.org/10.1016/j.quascirev.2022.107404)).
 
 
 ![Nd_cycle](assets/Nd_sketch.png)
