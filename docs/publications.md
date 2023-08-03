@@ -8,6 +8,7 @@ permalink: /publications/
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
 ### 2023
+- **Pöppelmeier, F.**, Joos, F., & Stocker, T. F. (2023). The coupled ice sheet-Earth system model Bern3d v3.0. Journal of Climate, in press. doi:[10.1175/JCLI-D-23-0104.1](https://doi.org/10.1175/JCLI-D-23-0104.1)
 - **Pöppelmeier, F.**, Baggenstos, D., Grimmer, M., Liu, Z., Schmitt, J., Fischer, H., & Stocker, T. F. (2023). The effect of past saturation changes on noble gas reconstructions of mean ocean temperature. Geophysical Research Letters 50, e2022GL102055. doi:[10.1029/2022GL102055](https://doi.org/10.1029/2022GL102055)
 - **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience. doi:[10.1038/s41561-023-01140-3](https://doi.org/10.1038/s41561-023-01140-3)
     - News & Views by Hali Kilbourne doi:[10.1038/s41561-023-01158-7](https://doi.org/10.1038/s41561-023-01158-7)
