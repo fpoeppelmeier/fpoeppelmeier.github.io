@@ -11,6 +11,9 @@ I am currently a Marie Sklodowska-Curie fellow at the University of Bern, Switze
 
 <br/>
 
+**I have an open PhD position on ["Constraining Tipping Point representations in models with paleoclimate records"](https://ohws.prospective.ch/public/v1/jobs/d02b12aa-be7d-4df8-abc7-8d946a53c3a0) in the framework of the Horizon Europe project ClimTip.**
+
+<br/>
 
 ___
 
