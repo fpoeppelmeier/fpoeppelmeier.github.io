@@ -17,7 +17,7 @@ ___
   
 {% include module.html image_path="assets/Portrait_Poeppelmeier_2023.jpg" title="Contact" description="Dr. Frerk Pöppelmeier  " %}
 frerk.poeppelmeier@unibe.ch  
-Climate and Environmental Physics, Physics Insitute  
+Climate and Environmental Physics, Physics Institute  
 Oeschger Centre for Climate Change Research  
 University of Bern  
 3012 Bern, Switzerland  
