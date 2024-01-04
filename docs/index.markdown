@@ -15,7 +15,7 @@ ___
 
 <br/>
   
-{% include module.html image_path="assets/Portraet_Poeppelmeier.jpeg" title="Contact" description="Dr. Frerk Pöppelmeier  " %}
+{% include module.html image_path="assets/Portrait_Poeppelmeier_2023.jpg" title="Contact" description="Dr. Frerk Pöppelmeier  " %}
 frerk.poeppelmeier@unibe.ch  
 Climate and Environmental Physics, Physics Insitute  
 Oeschger Centre for Climate Change Research  
