@@ -14,7 +14,11 @@ permalink: /CV/
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">2021 - present</td>
+<td markdown="span">2023 - present</td>
+<td markdown="span">Postdoctoral fellow, Climate and Environmental Physics, University of Bern</td>
+</tr>
+<tr>
+<td markdown="span">2021 - 2023</td>
 <td markdown="span">Marie Sklodowska-Curie Fellow, Climate and Environmental Physics, University of Bern</td>
 </tr>
 <tr>
