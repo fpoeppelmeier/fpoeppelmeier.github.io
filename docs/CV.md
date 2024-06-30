@@ -14,8 +14,12 @@ permalink: /CV/
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">2023 - present</td>
-<td markdown="span">Postdoctoral fellow, Climate and Environmental Physics, University of Bern</td>
+<td markdown="span">2025 - </td>
+<td markdown="span">Assistant Professor Tenure Track, Climate and Environmental Physics, University of Bern</td>
+</tr>
+<tr>
+<td markdown="span">2023 - 2025</td>
+<td markdown="span">Postdoctoral Fellow, Climate and Environmental Physics, University of Bern</td>
 </tr>
 <tr>
 <td markdown="span">2021 - 2023</td>
@@ -60,6 +64,7 @@ permalink: /CV/
 </table>
 
 ### Awards and Research Grants
+- Swiss contribution to the Horizon Europe Research Grant Past To Future
 - Swiss contribution to the Horizon Europe Research Grant ClimTip
 - Marie Sklodowska-Curie Action fellowship (2021) of the EU Horizon 2020 framework program
 - Ruprecht-Karls Prize (2020) of the Heidelberg University for excellent PhD Theses
