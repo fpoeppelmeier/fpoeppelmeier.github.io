@@ -64,9 +64,9 @@ permalink: /CV/
 </table>
 
 ### Awards and Research Grants
-- Swiss contribution to the Horizon Europe Research Grant Past To Future
-- Swiss contribution to the Horizon Europe Research Grant ClimTip
-- Marie Sklodowska-Curie Action fellowship (2021) of the EU Horizon 2020 framework program
+- Swiss contribution to the Horizon Europe Research Grant - <em>Past To Future</em>
+- Swiss contribution to the Horizon Europe Research Grant - <em>[ClimTip](https://cordis.europa.eu/project/id/101137601)</em>
+- Marie Sklodowska-Curie Action fellowship (2021) of the EU Horizon 2020 framework program - <em>[CliMoTran](https://cordis.europa.eu/project/id/101023443)</em>
 - Ruprecht-Karls Prize (2020) of the Heidelberg University for excellent PhD Theses
 - DFG research grant (2020) together with Dr. Jörg Lippold (Heidelberg University) for the investigation of the Atlantic deep circulation during the past 100,000 years
 
