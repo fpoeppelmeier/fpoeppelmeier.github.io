@@ -7,10 +7,14 @@ permalink: /publications/
 [**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
+### 2024
+- Adloff, M., Jeltsch-Thömmes, A., **Pöppelmeier, F.**, Stocker, T. F., & Joos, F. (2024). Sediment fluxes dominate glacial-interglacial changes in ocean carbon inventory: results from factorial simulations over the past 780,000 years. Climate of the Past Discussion. doi:[10.5194/egusphere-2024-1754](https://doi.org/10.5194/egusphere-2024-1754)
+- Adloff, M., **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Stocker, T. F., & Joos, F. (2024). Multiple thermal Atlantic Meridional Overturning Circulation thresholds in the intermediate complexity model Bern3D. Climate of the Past 20, 1233–1250. doi:[10.5194/cp-20-1233-2024](https://doi.org/10.5194/cp-20-1233-2024)
+
 ### 2023
-- **Pöppelmeier, F.**, Joos, F., & Stocker, T. F. (2023). The coupled ice sheet-Earth system model Bern3d v3.0. Journal of Climate, in press. doi:[10.1175/JCLI-D-23-0104.1](https://doi.org/10.1175/JCLI-D-23-0104.1)
+- **Pöppelmeier, F.**, Joos, F., & Stocker, T. F. (2023). The coupled ice sheet-Earth system model Bern3d v3.0. Journal of Climate 36(21), 7563–7582. doi:[10.1175/JCLI-D-23-0104.1](https://doi.org/10.1175/JCLI-D-23-0104.1)
 - **Pöppelmeier, F.**, Baggenstos, D., Grimmer, M., Liu, Z., Schmitt, J., Fischer, H., & Stocker, T. F. (2023). The effect of past saturation changes on noble gas reconstructions of mean ocean temperature. Geophysical Research Letters 50, e2022GL102055. doi:[10.1029/2022GL102055](https://doi.org/10.1029/2022GL102055)
-- **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience. doi:[10.1038/s41561-023-01140-3](https://doi.org/10.1038/s41561-023-01140-3)
+- **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience 16, 349–356. doi:[10.1038/s41561-023-01140-3](https://doi.org/10.1038/s41561-023-01140-3)
     - News & Views by Hali Kilbourne doi:[10.1038/s41561-023-01158-7](https://doi.org/10.1038/s41561-023-01158-7)
 - Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating marine neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-MOSES1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development 16, 1231-1264. doi:[10.5194/gmd-16-1231-2023](https://doi.org/10.5194/gmd-16-1231-2023)
 
