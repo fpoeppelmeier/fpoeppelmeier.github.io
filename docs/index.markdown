@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div style="text-align: justify">
-I am currently a postdoctoral fellow at the University of Bern, Switzerland working on the reconstruction of past circulation and climate change during the Quaternary. As an isotope geochemist and paleoceanographer I combine direct reconstructions from marine sediments with model simulations to gain further insight into the driving processes for the variability in ocean circulation and climate in general. My research interests cover a wide range of topics from the geochemical understanding of trace elements in the ocean and sediments, used to reconstruct water mass properties, over the stability conditions of the Atlantic Meridional Overturning Circulation to the interaction of continental ice sheets with the ocean during glacial-interglacial cycles.
+I am currently a postdoctoral fellow at the University of Bern, Switzerland working on the reconstruction of past circulation and climate change during the Quaternary. I will be starting as an Assistant Professor (tenure track) in Global Biogeochemical Modelling in early 2025 at the same institute. As an isotope geochemist and paleoceanographer I combine direct reconstructions from marine sediments with model simulations to gain further insight into the driving processes for the variability in ocean circulation and climate in general. My research interests cover a wide range of topics from the geochemical understanding of trace elements in the ocean and sediments, used to reconstruct water mass properties, over the stability conditions of the Atlantic Meridional Overturning Circulation to the interaction of continental ice sheets with the ocean during glacial-interglacial cycles.
 </div>
 
 <br/>
