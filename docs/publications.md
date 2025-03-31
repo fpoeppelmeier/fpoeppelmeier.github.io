@@ -7,8 +7,12 @@ permalink: /publications/
 [**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
+### 2025
+- Blaser, P., Waelbroeck, C., Thornalley, D., Lippold, J., **Pöppelmeier, F.**, Kaboth-Bahr, S., Repschläger, J., Jaccard, S. L. (2025). Prevalent North Atlantic Deep Water during the Last Glacial Maximum and Heinrich Stadial 1. Nature Geoscience, accepted.
+- Scheen, J., Lippold, J., **Pöppelmeier, F.**, Süfke, F., Stocker, T. F. (2025). Promising Regions for Detecting the Overturning Circulation in Atlantic 231Pa/230Th: A Model-Data Comparison. Paleoceanography & Paleoclimatology 40(3), e2024PA004869. doi:[10.1029/2024PA004869](https://doi.org/10.1029/2024PA004869)
+- Adloff, M., Jeltsch-Thömmes, A., **Pöppelmeier, F.**, Stocker, T. F., & Joos, F. (2025). Sediment fluxes dominate glacial-interglacial changes in ocean carbon inventory: results from factorial simulations over the past 780,000 years. Climate of the Past 21, 571-592. doi:[10.5194/cp-21-571-2025](https://doi.org/10.5194/cp-21-571-2025)
+
 ### 2024
-- Adloff, M., Jeltsch-Thömmes, A., **Pöppelmeier, F.**, Stocker, T. F., & Joos, F. (2024). Sediment fluxes dominate glacial-interglacial changes in ocean carbon inventory: results from factorial simulations over the past 780,000 years. Climate of the Past Discussion. doi:[10.5194/egusphere-2024-1754](https://doi.org/10.5194/egusphere-2024-1754)
 - Adloff, M., **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Stocker, T. F., & Joos, F. (2024). Multiple thermal Atlantic Meridional Overturning Circulation thresholds in the intermediate complexity model Bern3D. Climate of the Past 20, 1233–1250. doi:[10.5194/cp-20-1233-2024](https://doi.org/10.5194/cp-20-1233-2024)
 
 ### 2023
