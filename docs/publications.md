@@ -8,9 +8,9 @@ permalink: /publications/
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
 ### 2025
-- **Pöppelmeier, F.**, Stocker, T. F. (2025). Mutual stabilization of AMOC and GrIS due to different transient response to warming. Environmental Research Letters, accepted.
+- **Pöppelmeier, F.**, Stocker, T. F. (2025). Mutual stabilization of AMOC and GrIS due to different transient response to warming. Environmental Research Letters, accepted. doi:[10.1088/1748-9326/adf45a](https://doi.org/10.1088/1748-9326/adf45a)
 - Gerber, L., Lippold, J., Süfke, F., Valk, O., Testorf, P., Ehnis, M., Tautenhahn, S., Max, L., Chiessi, C. M., Regelous, M., Szidat, S., Friedrich, O., **Pöppelmeier, F.** (2025). Low variability of the Atlantic Meridional Overturning Circulation throughout the Holocene. Nature Communications 16, 6748. doi:[10.1038/s41467-025-61793-z](https://doi.org/10.1038/s41467-025-61793-z)
-- Blaser, P., Waelbroeck, C., Thornalley, D., Lippold, J., **Pöppelmeier, F.**, Kaboth-Bahr, S., Repschläger, J., Jaccard, S. L. (2025). Prevalent North Atlantic Deep Water during the Last Glacial Maximum and Heinrich Stadial 1. Nature Geoscience 18, 410-416. doi:[10.1038/s41561-025-01685-5](https://doi.org/10.1038/s41561-025-01685-5).
+- Blaser, P., Waelbroeck, C., Thornalley, D., Lippold, J., **Pöppelmeier, F.**, Kaboth-Bahr, S., Repschläger, J., Jaccard, S. L. (2025). Prevalent North Atlantic Deep Water during the Last Glacial Maximum and Heinrich Stadial 1. Nature Geoscience 18, 410-416. doi:[10.1038/s41561-025-01685-5](https://doi.org/10.1038/s41561-025-01685-5)
 - Scheen, J., Lippold, J., **Pöppelmeier, F.**, Süfke, F., Stocker, T. F. (2025). Promising Regions for Detecting the Overturning Circulation in Atlantic 231Pa/230Th: A Model-Data Comparison. Paleoceanography & Paleoclimatology 40(3), e2024PA004869. doi:[10.1029/2024PA004869](https://doi.org/10.1029/2024PA004869)
 - Adloff, M., Jeltsch-Thömmes, A., **Pöppelmeier, F.**, Stocker, T. F., & Joos, F. (2025). Sediment fluxes dominate glacial-interglacial changes in ocean carbon inventory: results from factorial simulations over the past 780,000 years. Climate of the Past 21, 571-592. doi:[10.5194/cp-21-571-2025](https://doi.org/10.5194/cp-21-571-2025)
 
