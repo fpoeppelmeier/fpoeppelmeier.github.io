@@ -64,6 +64,7 @@ permalink: /CV/
 </table>
 
 ### Awards and Research Grants
+- ERC Starting Grant 2025 - <em>BGCTip</em>
 - Swiss contribution to the Horizon Europe Research Grant - <em>[Past To Future](https://past2future.org)</em>
 - Swiss contribution to the Horizon Europe Research Grant - <em>[ClimTip](https://cordis.europa.eu/project/id/101137601)</em>
 - Marie Sklodowska-Curie Action fellowship (2021) of the EU Horizon 2020 framework program - <em>[CliMoTran](https://cordis.europa.eu/project/id/101023443)</em>
