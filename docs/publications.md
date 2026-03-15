@@ -7,8 +7,14 @@ permalink: /publications/
 [**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
+### 2026
+- MacDougall, A., **Pöppelmeier, F.**, MaxIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
+- Testorf, P., Gerber, L., Lippold, J., **Pöppelmeier, F.** (2026). Influence of particle and transport effects on Pa/Th sensitivity to AMOC changes. Paleoceanography & Paleoclimatology, in review.
+- Adloff, M., **Pöppelmeier, F.**, Dinauer, A., Laufkötter, C., Joos, F. (2026). Particle flux dynamics amplify marine carbon cycle differences between climate states. Biogeosciences, in review. doi:[10.5194/egusphere-2026-275](https://doi.org/10.5194/egusphere-2026-275)
+- Köhler, P., Menviel, L., **Pöppelmeier, F.**, Heaton, T.J., Bard, E., Skinner, L.C. (2026). A model intercomparison of radiocarbon-based marine reservoir ages during the last 55 kyr including abrupt changes in the Atlantic Meridional Overturning Circulation. Climate of the Past, in revision. doi:[10.5194/egusphere-2025-5136](https://doi.org/10.5194/egusphere-2025-5136)
+
 ### 2025
-- Huang, H., Gutjahr, M., Hu, Y., **Pöppelmeier, F.**, Kuhn, G., Lippold, J., Ronge, T., Wu, S., Blaser, P., Jaccard, S. J., Luo, Y., Yu, J. Lembke-Jene, L. (2025). Expansion of Antarctic Bottom Water driven by Antarctic warming in the last deglaciation. Nature Geoscience, accepted.
+- Huang, H., Gutjahr, M., Hu, Y., **Pöppelmeier, F.**, Kuhn, G., Lippold, J., Ronge, T., Wu, S., Blaser, P., Jaccard, S. J., Luo, Y., Yu, J. Lembke-Jene, L. (2025). Expansion of Antarctic Bottom Water driven by Antarctic warming in the last deglaciation. Nature Geoscience, 19, 113-119. doi:[10.1038/s41561-025-01853-7](https://doi.org/10.1038/s41561-025-01853-7)
 - Adloff, M., Jeltsch‐Thömmes, A., Rae, J. W. B., **Pöppelmeier, F.**, Trudgill, M., Stocker, T. F., Joos, F. (2025). Evaluating Glacial CO2 System Reconstructions From Benthic Proxies in Earth System Simulations. Paleoceanography and Paleoclimatology 40, e2025PA005125. doi:[10.1029/2025PA005125](https://doi.org/10.1029/2025PA005125)
 - **Pöppelmeier, F.**, Stocker, T. F. (2025). Mutual stabilization of AMOC and GrIS due to different transient response to warming. Environmental Research Letters 20, 094015. doi:[10.1088/1748-9326/adf45a](https://doi.org/10.1088/1748-9326/adf45a)
 - Gerber, L., Lippold, J., Süfke, F., Valk, O., Testorf, P., Ehnis, M., Tautenhahn, S., Max, L., Chiessi, C. M., Regelous, M., Szidat, S., Friedrich, O., **Pöppelmeier, F.** (2025). Low variability of the Atlantic Meridional Overturning Circulation throughout the Holocene. Nature Communications 16, 6748. doi:[10.1038/s41467-025-61793-z](https://doi.org/10.1038/s41467-025-61793-z)
