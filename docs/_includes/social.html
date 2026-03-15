@@ -1,6 +1,7 @@
 <ul class="social-media-list">
   {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username | escape }}</span></a></li>{%- endif -%}
   {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username | escape }}</span></a></li>{%- endif -%}
+  {%- if site.bluesky_username -%}<li><a href="https://bsky.app/profile/{{ site.bluesky_username | cgi_escape | escape }}"><span class="username">Bluesky</span></a></li>{%- endif -%}
   {%- if site.scholar_userid -%}<li><a href="https://scholar.google.com/citations?user={{ site.scholar_userid | cgi_escape | escape }}"><span class="username">Google Scholar</span></a></li>{%- endif -%}
   {%- if site.researchgate_username -%}<li><a href="https://www.researchgate.net/profile/{{ site.researchgate_username | cgi_escape | escape }}"><span class="username">ResearchGate</span></a></li>{%- endif -%}
 </ul>
