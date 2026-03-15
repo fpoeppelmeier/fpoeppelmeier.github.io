@@ -12,7 +12,7 @@ I am an Assistant Professor in Global Biogeochemical Modelling at the University
 <br/>
 <div style="text-align: justify">
 
-<b>I was awarded an ERC Starting Grant 2025 entitled: <em>Unraveling tipping dynamics of marine biogeochemistry from past climate transitions</em>. I will hire for this project in 2026.</b>
+<b>I was awarded an ERC Starting Grant 2025 entitled: <em>[Unraveling tipping dynamics of marine biogeochemistry from past climate transitions](https://fpoeppelmeier.github.io/bgctip/)</em>. I will hire for this project in 2026.</b>
 
 </div>
 
