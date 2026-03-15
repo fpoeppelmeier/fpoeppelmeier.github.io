@@ -8,7 +8,7 @@ permalink: /publications/
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
 ### 2026
-- MacDougall, A., **Pöppelmeier, F.**, MaxIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
+- MacDougall, A., **Pöppelmeier, F.**, MacIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
 - Testorf, P., Gerber, L., Lippold, J., **Pöppelmeier, F.** (2026). Influence of particle and transport effects on Pa/Th sensitivity to AMOC changes. Paleoceanography & Paleoclimatology, in review.
 - Adloff, M., **Pöppelmeier, F.**, Dinauer, A., Laufkötter, C., Joos, F. (2026). Particle flux dynamics amplify marine carbon cycle differences between climate states. Biogeosciences, in review. doi:[10.5194/egusphere-2026-275](https://doi.org/10.5194/egusphere-2026-275)
 - Köhler, P., Menviel, L., **Pöppelmeier, F.**, Heaton, T.J., Bard, E., Skinner, L.C. (2026). A model intercomparison of radiocarbon-based marine reservoir ages during the last 55 kyr including abrupt changes in the Atlantic Meridional Overturning Circulation. Climate of the Past, in revision. doi:[10.5194/egusphere-2025-5136](https://doi.org/10.5194/egusphere-2025-5136)
