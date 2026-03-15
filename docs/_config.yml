@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - research.markdown
+  - bgctip.markdown
   - publications.md
   - CV.md
 
