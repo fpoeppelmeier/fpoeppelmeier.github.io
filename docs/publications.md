@@ -8,6 +8,7 @@ permalink: /publications/
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
 ### 2026
+- Gerber, L., Lippold, J., Repschläger, J., Friedrich, O., Testorf, P., Ehnis, M., Süfke, F., Blaser, P., **Pöppelmeier, F.**, Jaccard, S. L. (2026). Processes driving 231Pa/230Th changes in the mid-North Atlantic Basin over the last 30,000 years. Paleoceanography & Paleoclimatology, submitted.
 - MacDougall, A., **Pöppelmeier, F.**, MacIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
 - Testorf, P., Gerber, L., Lippold, J., **Pöppelmeier, F.** (2026). Influence of particle and transport effects on Pa/Th sensitivity to AMOC changes. Paleoceanography & Paleoclimatology, in review.
 - Adloff, M., **Pöppelmeier, F.**, Dinauer, A., Laufkötter, C., Joos, F. (2026). Particle flux dynamics amplify marine carbon cycle differences between climate states. Biogeosciences, in review. doi:[10.5194/egusphere-2026-275](https://doi.org/10.5194/egusphere-2026-275)
