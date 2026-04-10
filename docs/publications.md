@@ -12,7 +12,7 @@ permalink: /publications/
 - MacDougall, A., **Pöppelmeier, F.**, MacIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
 - Testorf, P., Gerber, L., Lippold, J., **Pöppelmeier, F.** (2026). Influence of particle and transport effects on Pa/Th sensitivity to AMOC changes. Paleoceanography & Paleoclimatology, in review.
 - Adloff, M., **Pöppelmeier, F.**, Dinauer, A., Laufkötter, C., Joos, F. (2026). Particle flux dynamics amplify marine carbon cycle differences between climate states. Biogeosciences, in review. doi:[10.5194/egusphere-2026-275](https://doi.org/10.5194/egusphere-2026-275)
-- Köhler, P., Menviel, L., **Pöppelmeier, F.**, Heaton, T.J., Bard, E., Skinner, L.C. (2026). A model intercomparison of radiocarbon-based marine reservoir ages during the last 55 kyr including abrupt changes in the Atlantic Meridional Overturning Circulation. Climate of the Past, in revision. doi:[10.5194/egusphere-2025-5136](https://doi.org/10.5194/egusphere-2025-5136)
+- Köhler, P., Menviel, L., **Pöppelmeier, F.**, Heaton, T.J., Bard, E., Skinner, L.C. (2026). A model intercomparison of radiocarbon-based marine reservoir ages during the last 55 kyr including abrupt changes in the Atlantic Meridional Overturning Circulation. Climate of the Past 22, 729-746. doi:[10.5194/cp-22-729-2026](https://doi.org/10.5194/cp-22-729-2026)
 
 ### 2025
 - Huang, H., Gutjahr, M., Hu, Y., **Pöppelmeier, F.**, Kuhn, G., Lippold, J., Ronge, T., Wu, S., Blaser, P., Jaccard, S. J., Luo, Y., Yu, J. Lembke-Jene, L. (2025). Expansion of Antarctic Bottom Water driven by Antarctic warming in the last deglaciation. Nature Geoscience, 19, 113-119. doi:[10.1038/s41561-025-01853-7](https://doi.org/10.1038/s41561-025-01853-7)
