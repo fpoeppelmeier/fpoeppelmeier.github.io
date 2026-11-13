@@ -1,0 +1,24 @@
+# Personal details used in the header, home page, sidebar and footer.
+name: Frerk Pöppelmeier
+honorific: Prof. Dr.
+position: Assistant Professor in Global Biogeochemical Modelling
+tagline: Ocean circulation, the carbon cycle and climate tipping points, from the past to the future.
+group: Climate and Environmental Physics
+institute: Physics Institute
+centre: Oeschger Centre for Climate Change Research
+university: University of Bern
+city: 3012 Bern, Switzerland
+email: frerk.poeppelmeier@unibe.ch
+phone: +41 31 684 4463
+portrait: /assets/Portrait_Poeppelmeier_2023.jpg
+group_url: https://www.climate.unibe.ch
+links:
+  - name: Google Scholar
+    icon: scholar
+    url: https://scholar.google.com/citations?user=R7XyXbgAAAAJ
+  - name: Bluesky
+    icon: bluesky
+    url: https://bsky.app/profile/fpoeppelmeier.bsky.social
+  - name: ResearchGate
+    icon: researchgate
+    url: https://www.researchgate.net/profile/Frerk_Poeppelmeier

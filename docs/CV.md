@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Short Curriculum Vitae"
+subtitle: Professional experience, education, grants and community service.
 permalink: /CV/
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Publications"
+subtitle: Peer-reviewed articles, manuscripts in review and book chapters.
 permalink: /publications/
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
-[**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
+<p class="pub-links">Full and up-to-date lists are also available on <a href="https://scholar.google.com/citations?user=R7XyXbgAAAAJ&amp;hl=en">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Frerk_Poeppelmeier">ResearchGate</a>.</p>
 
 ### Submitted & in review
 - de Huu, A., Testorf, P., Stocker, T. F., **Pöppelmeier, F.** (2026). Simulated Dansgaard-Oeschger-like events as unforced and self-sustained oscillations of the AMOC. Submitted.

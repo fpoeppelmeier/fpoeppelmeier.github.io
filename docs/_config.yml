@@ -20,9 +20,10 @@
 
 title: Frerk Pöppelmeier
 email: frerk.poeppelmeier@unibe.ch
-description: #>- # this means to ignore newlines until "baseurl:"
-  Prof. Dr. Frerk Pöppelmeier,
-  Climate and Environmental Physics, University of Bern, Switzerland
+description: >-
+  Prof. Dr. Frerk Pöppelmeier, Climate and Environmental Physics,
+  University of Bern, Switzerland. Ocean circulation, carbon cycle and
+  climate tipping points in Earth system models and paleo reconstructions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: fpoeppelmeier
@@ -32,17 +33,14 @@ scholar_userid: R7XyXbgAAAAJ
 researchgate_username: Frerk_Poeppelmeier
 
 # Build settings
-theme: minima
+# The site uses its own layouts (_layouts) and stylesheet (assets/css/site.css),
+# so no gem-based theme is needed.
 plugins:
   - jekyll-feed
 
 # minimal_mistakes_skin: "default"
 
-header_pages:
-  - research.markdown
-  - bgctip.markdown
-  - publications.md
-  - CV.md
+# Navigation entries are defined in _data/navigation.yml
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,21 @@
+{%- assign p = site.data.profile -%}
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-col">
+      <p class="footer-name">{{ p.honorific }} {{ p.name }}</p>
+      <p>{{ p.group }}, {{ p.institute }}<br>{{ p.centre }}<br>{{ p.university }}, {{ p.city }}</p>
+    </div>
+    <div class="footer-col">
+      <p><a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{{ p.phone }}</p>
+      <ul class="icon-links">
+        {%- for l in p.links %}
+        <li><a href="{{ l.url }}" title="{{ l.name }}" aria-label="{{ l.name }}">{% include icon.html name=l.icon %}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <div class="footer-col footer-meta">
+      <p><a href="{{ p.group_url }}">Climate and Environmental Physics, University of Bern</a></p>
+      <p>© {{ 'now' | date: '%Y' }} {{ p.name }}</p>
+    </div>
+  </div>
+</footer>

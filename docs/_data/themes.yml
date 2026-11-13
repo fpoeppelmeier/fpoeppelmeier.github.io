@@ -1,0 +1,16 @@
+# Research themes shown on the home page; anchors point into /research/.
+- title: Mid-Pleistocene Transition
+  image: /assets/MPT_LR04.jpg
+  alt: Benthic oxygen isotope stack showing the shift from 41-kyr to 100-kyr glacial cycles
+  url: /research/#mpt
+  text: Why glacial cycles slowed from 41,000 to ~100,000 years, studied with a coupled ice sheet–Earth system model.
+- title: Trace metal proxies
+  image: /assets/Nd_sketch.png
+  alt: Schematic of the marine neodymium cycle
+  url: /research/#trace-metals
+  text: Simulating Nd, Cr, Pa/Th and carbon isotopes in Bern3D to interpret what marine sediments tell us about past water masses.
+- title: AMOC stability
+  image: /assets/AMOC.png
+  alt: Simulated and reconstructed Atlantic circulation changes over the last 20,000 years
+  url: /research/#amoc
+  text: Constraining past and future tipping of the Atlantic overturning circulation through model-data comparison.

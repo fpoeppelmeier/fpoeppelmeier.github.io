@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BGCTip
+eyebrow: ERC Starting Grant 2025 · 2026–2031
 subtitle: Unraveling tipping dynamics of marine biogeochemistry from past climate transitions
 permalink: /bgctip/
 ---
@@ -104,7 +105,7 @@ BGCTip works closely with Martin Frank (GEOMAR, Kiel), Samuel Jaccard (Universit
 
 ## Open science
 
-All model developments and proxy data compilations created in BGCTip will be made openly available, so that the observational and modelling communities can use them. Project publications will be listed here and on the [publications](/publications/) page as they appear.
+All model developments and proxy data compilations created in BGCTip will be made openly available, so that the observational and modelling communities can use them. Project publications will be listed here and on the [publications]({{ "/publications/" | relative_url }}) page as they appear.
 
 <div class="funding">
   <svg class="eu-flag" viewBox="0 0 810 540" role="img" aria-label="Flag of the European Union"><rect width="810" height="540" fill="#039"/><g fill="#fc0" transform="translate(405,270)"><g id="eu-s"><polygon points="0,-210 6.74,-189.27 28.53,-189.27 10.9,-176.46 17.63,-155.73 0,-168.54 -17.63,-155.73 -10.9,-176.46 -28.53,-189.27 -6.74,-189.27"/></g><use href="#eu-s" transform="rotate(30)"/><use href="#eu-s" transform="rotate(60)"/><use href="#eu-s" transform="rotate(90)"/><use href="#eu-s" transform="rotate(120)"/><use href="#eu-s" transform="rotate(150)"/><use href="#eu-s" transform="rotate(180)"/><use href="#eu-s" transform="rotate(210)"/><use href="#eu-s" transform="rotate(240)"/><use href="#eu-s" transform="rotate(270)"/><use href="#eu-s" transform="rotate(300)"/><use href="#eu-s" transform="rotate(330)"/></g></svg>

@@ -1,61 +1,83 @@
 ---
 layout: default
 ---
+{%- assign p = site.data.profile -%}
+<section class="hero" style="--hero-img: url('{{ '/assets/header.jpg' | relative_url }}')">
+  <div class="container hero-inner">
+    <p class="eyebrow">{{ p.group }} · {{ p.university }}</p>
+    <h1>{{ p.name }}</h1>
+    <p class="hero-sub">{{ p.position }}. {{ p.tagline }}</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="{{ '/research/' | relative_url }}">Research {% include icon.html name="arrow" %}</a>
+      <a class="btn btn-ghost" href="{{ '/publications/' | relative_url }}">Publications</a>
+    </div>
+  </div>
+</section>
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<section class="container about">
+  <div class="prose about-text">
+    <h2 class="section-title">About</h2>
+    {{ content }}
+  </div>
+  <aside class="profile-card">
+    <img src="{{ p.portrait | relative_url }}" alt="Portrait of {{ p.name }}" loading="lazy">
+    <div class="profile-body">
+      <p class="profile-name">{{ p.honorific }} {{ p.name }}</p>
+      <ul class="contact-list">
+        <li>{% include icon.html name="mail" %}<a href="mailto:{{ p.email }}">{{ p.email }}</a></li>
+        <li>{% include icon.html name="phone" %}<span>{{ p.phone }}</span></li>
+        <li>{% include icon.html name="pin" %}<span>{{ p.group }}, {{ p.institute }}<br>{{ p.centre }}<br>{{ p.university }}, {{ p.city }}</span></li>
+      </ul>
+      <ul class="icon-links">
+        {%- for l in p.links %}
+        <li><a href="{{ l.url }}" title="{{ l.name }}" aria-label="{{ l.name }}">{% include icon.html name=l.icon %}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </aside>
+</section>
 
-  {{ content }}
+<section class="container">
+  <a class="highlight" href="{{ '/bgctip/' | relative_url }}">
+    <div class="highlight-text">
+      <p class="eyebrow">ERC Starting Grant 2025 · 2026–2031</p>
+      <h2>BGCTip</h2>
+      <p class="highlight-title">Unraveling tipping dynamics of marine biogeochemistry from past climate transitions</p>
+      <p>How do abrupt shifts in ocean circulation affect the biological carbon pump? BGCTip combines new isotope proxies, paleo reconstructions and the Bern3D model to find out, and applies the results to future tipping scenarios.</p>
+      <span class="btn btn-light">About the project {% include icon.html name="arrow" %}</span>
+    </div>
+    <dl class="highlight-facts">
+      <div><dt>Duration</dt><dd>May 2026 – Apr 2031</dd></div>
+      <div><dt>Work packages</dt><dd>Proxies · Past · Future</dd></div>
+      <div><dt>New tracers</dt><dd>δ<sup>15</sup>N, δ<sup>30</sup>Si, δ<sup>138</sup>Ba, δ<sup>60</sup>Ni</dd></div>
+    </dl>
+  </a>
+</section>
 
+<section class="container themes">
+  <div class="section-head">
+    <h2 class="section-title">Research themes</h2>
+    <a class="more-link" href="{{ '/research/' | relative_url }}">All research {% include icon.html name="arrow" %}</a>
+  </div>
+  <div class="card-grid">
+    {%- for t in site.data.themes %}
+    <a class="theme-card" href="{{ t.url | relative_url }}">
+      <div class="theme-img"><img src="{{ t.image | relative_url }}" alt="{{ t.alt }}" loading="lazy"></div>
+      <h3>{{ t.title }}</h3>
+      <p>{{ t.text }}</p>
+    </a>
+    {%- endfor %}
+  </div>
+</section>
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}
-
-</div>
+<section class="container news">
+  <h2 class="section-title">News</h2>
+  <ul class="news-list">
+    {%- for n in site.data.news %}
+    <li>
+      <time>{{ n.date }}</time>
+      <p>{{ n.text }}{% if n.url %} <a href="{{ n.url | relative_url }}" aria-label="Read more">{% include icon.html name="arrow" %}</a>{% endif %}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
