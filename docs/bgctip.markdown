@@ -84,17 +84,17 @@ BGCTip builds on the [Bern3D Earth system model of intermediate complexity](http
   </div>
   <div class="member">
     <span class="member-role">Postdoctoral researcher</span>
-    <span class="member-name"><!-- TODO: name --></span>
+    <span class="member-name"><a href="https://www.climate.unibe.ch/about_us/team/dr_el_khazen_mia/index_eng.html">Dr. Mia El-Khazen</a></span>
     <span class="member-topic">WP 1: Si, Ba and Ni isotope tracers</span>
   </div>
   <div class="member">
     <span class="member-role">PhD student</span>
-    <span class="member-name"><!-- TODO: name --></span>
+    <span class="member-name"><a href="https://www.climate.unibe.ch/about_us/team/franoisse_elise/index_eng.html">Elise Françoisse</a></span>
     <span class="member-topic">WP 2: past abrupt climate transitions</span>
   </div>
   <div class="member">
     <span class="member-role">PhD student</span>
-    <span class="member-name"><!-- TODO: name --></span>
+    <span class="member-name"><a href="https://www.climate.unibe.ch/about_us/team/pfaeffli_fiona/index_eng.html">Fiona Pfäffli</a></span>
     <span class="member-topic">WP 3: future tipping scenarios</span>
   </div>
 </div>
