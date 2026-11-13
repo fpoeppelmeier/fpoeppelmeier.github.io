@@ -7,12 +7,14 @@ permalink: /publications/
 [**Google Scholar**](https://scholar.google.com/citations?user=R7XyXbgAAAAJ&hl=en)  
 [**ResearchGate**](https://www.researchgate.net/profile/Frerk_Poeppelmeier)
 
-### 2026
+### Submitted & in review
 - de Huu, A., Testorf, P., Stocker, T. F., **Pöppelmeier, F.** (2026). Simulated Dansgaard-Oeschger-like events as unforced and self-sustained oscillations of the AMOC. Submitted.
-- Gerber, L., Lippold, J., Repschläger, J., Friedrich, O., Testorf, P., Ehnis, M., Süfke, F., Blaser, P., **Pöppelmeier, F.**, Jaccard, S. L. (2026). Processes driving 231Pa/230Th changes in the mid-North Atlantic Basin over the last 30,000 years. Paleoceanography & Paleoclimatology, submitted.
 - MacDougall, A., **Pöppelmeier, F.**, MacIsaac, A. (2026). The emergence of warming proportional to cumulative carbon emissions. Submitted.
 - Testorf, P., Gerber, L., Lippold, J., **Pöppelmeier, F.** (2026). Influence of particle and transport effects on Pa/Th sensitivity to AMOC changes. Paleoceanography & Paleoclimatology, in review.
 - Adloff, M., **Pöppelmeier, F.**, Dinauer, A., Laufkötter, C., Joos, F. (2026). Particle flux dynamics amplify marine carbon cycle differences between climate states. Biogeosciences, in review. doi:[10.5194/egusphere-2026-275](https://doi.org/10.5194/egusphere-2026-275)
+
+### 2026
+- Gerber, L., Lippold, J., Repschläger, J., Friedrich, O., Testorf, P., Ehnis, M., Süfke, F., Blaser, P., **Pöppelmeier, F.**, Jaccard, S. L. (2026). Water-depth-dependent 231Pa/230Th responses in the central North Atlantic since the Last Glacial Maximum. Paleoceanography and Paleoclimatology 41, e2026PA005494. doi:[10.1029/2026PA005494](https://doi.org/10.1029/2026PA005494)
 - Köhler, P., Menviel, L., **Pöppelmeier, F.**, Heaton, T.J., Bard, E., Skinner, L.C. (2026). A model intercomparison of radiocarbon-based marine reservoir ages during the last 55 kyr including abrupt changes in the Atlantic Meridional Overturning Circulation. Climate of the Past 22, 729-746. doi:[10.5194/cp-22-729-2026](https://doi.org/10.5194/cp-22-729-2026)
 
 ### 2025
@@ -30,7 +32,7 @@ permalink: /publications/
 ### 2023
 - **Pöppelmeier, F.**, Joos, F., & Stocker, T. F. (2023). The coupled ice sheet-Earth system model Bern3d v3.0. Journal of Climate 36(21), 7563–7582. doi:[10.1175/JCLI-D-23-0104.1](https://doi.org/10.1175/JCLI-D-23-0104.1)
 - **Pöppelmeier, F.**, Baggenstos, D., Grimmer, M., Liu, Z., Schmitt, J., Fischer, H., & Stocker, T. F. (2023). The effect of past saturation changes on noble gas reconstructions of mean ocean temperature. Geophysical Research Letters 50, e2022GL102055. doi:[10.1029/2022GL102055](https://doi.org/10.1029/2022GL102055)
-- **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy agreement on Atlantic circulation dynamics since the last ice age. Nature Geoscience 16, 349–356. doi:[10.1038/s41561-023-01140-3](https://doi.org/10.1038/s41561-023-01140-3)
+- **Pöppelmeier, F.**, Jeltsch-Thömmes, A., Lippold, J., Joos, F., & Stocker, T. F. (2023). Multi-proxy constraints on Atlantic circulation dynamics since the last ice age. Nature Geoscience 16, 349–356. doi:[10.1038/s41561-023-01140-3](https://doi.org/10.1038/s41561-023-01140-3)
     - News & Views by Hali Kilbourne doi:[10.1038/s41561-023-01158-7](https://doi.org/10.1038/s41561-023-01158-7)
 - Robinson, S., Ivanovic, R., Gregoire, L., van de Flierdt, T., Plancherel, Y., **Pöppelmeier, F.**, Tachikawa, K., Valdes, P. (2023). Simulating marine neodymium isotope distributions using Nd v1.0 coupled to the ocean component of the FAMOUS-MOSES1 climate model: sensitivities to reversible scavenging efficiency and benthic source distributions. Geoscientific Model Development 16, 1231-1264. doi:[10.5194/gmd-16-1231-2023](https://doi.org/10.5194/gmd-16-1231-2023)
 
@@ -40,12 +42,12 @@ permalink: /publications/
 ### 2021
 - **Pöppelmeier, F.**, Janssen, D. J., Jaccard, S. L., & Stocker, T. F. (2021). Modeling the marine chromium cycle: New constraints on global-scale processes. Biogeosciences 18, 5447-5463. doi:[10.5194/bg-18-5447-2021](https://doi.org/10.5194/bg-18-5447-2021)
 - **Pöppelmeier, F.**, Gutjahr, M., Blaser, P., Schulz, H., Süfke, F., Lippold, J. (2021). Stable Atlantic Deep Water Mass Sourcing on Glacial-Interglacial Timescales. Geophysical Research Letters 48(15), e2021GL092722. doi:[10.1029/2021GL092722](https://doi.org/10.1029/2021GL092722)
-- **Pöppelmeier, F.**, Scheen, J., Jeltsch-Thömmes, A., & Stocker, T. F. (2021). Simulated stability of the AMOC during the Last Glacial Maximum. Climate of the Past 21, 615-632 doi:[10.5194/cp-17-615-2021](https://doi.org/10.5194/cp-17-615-2021)
+- **Pöppelmeier, F.**, Scheen, J., Jeltsch-Thömmes, A., & Stocker, T. F. (2021). Simulated stability of the AMOC during the Last Glacial Maximum. Climate of the Past 17, 615-632. doi:[10.5194/cp-17-615-2021](https://doi.org/10.5194/cp-17-615-2021)
 
 ### 2020
 - **Pöppelmeier, F.**, Scheen, J., Blaser, P., Lippold, J., Gutjahr, M., & Stocker, T. F. (2020). Influence of elevated Nd fluxes on the northern Nd isotope end member of the Atlantic during the early Holocene. Paleoceanography and Paleoclimatology 35(11), e2020PA003973. doi:[10.1029/2020PA003973](https://doi.org/10.1029/2020PA003973)
 - **Pöppelmeier, F.**, Blaser, P., Gutjahr, M., Jaccard, S. L., Frank, M., Max, L., & Lippold, J. (2020). Northern Sourced Water dominated the Atlantic Ocean during the Last Glacial Maximum. Geology 48 (8), 826-829. doi:[10.1130/G47628.1](https://doi.org/10.1130/G47628.1)
-- Blaser, P., Gutjahr, M., Pöppelmeier, F., Frank, M., Kaboth-Bahr, S., & Lippold, J. (2020). Labrador Sea bottom water provenance and REE exchange during the past 35,000 years. Earth and Planetary Science Letters 542, 116299. doi:[10.1016/j.epsl.2020.116299](https://doi.org/10.1016/j.epsl.2020.116299)
+- Blaser, P., Gutjahr, M., **Pöppelmeier, F.**, Frank, M., Kaboth-Bahr, S., & Lippold, J. (2020). Labrador Sea bottom water provenance and REE exchange during the past 35,000 years. Earth and Planetary Science Letters 542, 116299. doi:[10.1016/j.epsl.2020.116299](https://doi.org/10.1016/j.epsl.2020.116299)
 - **Pöppelmeier, F.**, Gutjahr, M., Blaser, P., Oppo, D. W., Jaccard, S. L., Regelous, M., Huang, K.-F., Süfke, F., & Lippold, J. (2020). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. Earth and Planetary Science Letters 531, 115963. doi:[10.1016/j.epsl.2019.115963](https://doi.org/10.1016/j.epsl.2019.115963)
 - Süfke, F., Schulz, H., Scheen, J., Szidat, S., Regelous, M., Blaser, P., **Pöppelmeier, F.**, Goepfert, T. J., Stocker, T. F., & Lippold, J. (2020). Inverse response of 231Pa/230Th to variations of the Atlantic meridional overturning circulation in the North Atlantic intermediate water. Geo-Marine Letters 40, 75-87. doi:[10.1007/s00367-019-00634-7](https://doi.org/10.1007/s00367-019-00634-7)
 
@@ -56,4 +58,9 @@ permalink: /publications/
 - Blaser, P., **Pöppelmeier, F.**, Schulz, H., Gutjahr, M., Frank, M., Lippold, J., Heinrich, H., Link, J. M., Hoffmann, J., Szidat, S., & Frank, N. (2019). The resilience and sensitivity of Northeast Atlantic deep water εNd to overprinting by detrital fluxes over the past 30,000 years. Geochimica et Cosmochimica Acta 245, 79-97. doi:[10.1016/j.gca.2018.10.018](https://doi.org/10.1016/j.gca.2018.10.018)
 
 ### 2018
-- **Pöppelmeier, F.**, Gutjahr, M., Blaser, P., Keigwin, L. D., & Lippold, J. (2018). Origin of abyssal water mass in the NW Atlantic since the Last Glacial Maximum. Paleoceanography and Paleoclimatology 33 (5), 530-543. doi:[10.1029/2017PA003290](https://doi.org/10.1029/2017PA003290)
+- **Pöppelmeier, F.**, Gutjahr, M., Blaser, P., Keigwin, L. D., & Lippold, J. (2018). Origin of abyssal NW Atlantic water masses since the Last Glacial Maximum. Paleoceanography and Paleoclimatology 33 (5), 530-543. doi:[10.1029/2017PA003290](https://doi.org/10.1029/2017PA003290)
+
+### Book chapters & other contributions
+- **Pöppelmeier, F.**, Blaser, P., Adloff, M. (2026). Proxies for glacial-interglacial shifts in ocean circulation. In: Reference Module in Earth Systems and Environmental Sciences. Elsevier. doi:[10.1016/B978-0-443-15748-6.00086-1](https://doi.org/10.1016/B978-0-443-15748-6.00086-1)
+- Adloff, M., Shankle, M. G., Trudgill, M. D., Pelly, M. I., **Pöppelmeier, F.**, Rae, J. W. B. (2026). Glacial-interglacial carbon cycle dynamics. In: Reference Module in Earth Systems and Environmental Sciences. Elsevier. doi:[10.1016/B978-0-443-15748-6.00094-0](https://doi.org/10.1016/B978-0-443-15748-6.00094-0)
+- **Pöppelmeier, F.** and IMPACT SSC members (2026). New working group on past abrupt changes and tipping points. Past Global Changes Magazine 34(1), 47. doi:[10.22498/pages.34.1.47](https://doi.org/10.22498/pages.34.1.47)
