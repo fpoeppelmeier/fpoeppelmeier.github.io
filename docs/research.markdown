@@ -30,7 +30,7 @@ For instance, in recent decades, neodymium (Nd) isotopes have emerged as a valua
 
 <figure>
   <img src="{{ '/assets/Nd_sketch.png' | relative_url }}" alt="Schematic of the marine neodymium cycle" loading="lazy">
-  <figcaption><b>Figure 2:</b> Schematic of the marine Nd cycle along a section from the North Pacific through the Southern Ocean (SO) to the North Atlantic. Nd enters the ocean through dust, rivers and benthic fluxes from the seafloor. It is redistributed by the ocean circulation (black arrows) and by reversible scavenging onto sinking particles (wavy arrows). From Pöppelmeier et al. (2022).</figcaption>
+  <figcaption><b>Figure 2:</b> Schematic of the marine Nd cycle along a section from the North Pacific through the Southern Ocean (SO) to the North Atlantic. Nd enters the ocean through dust, rivers and benthic fluxes from the seafloor; arrow colours indicate the Nd isotope signatures of these sources. It is redistributed by the ocean circulation (black arrows) and by reversible scavenging onto sinking particles (wavy arrows). From Pöppelmeier et al. (2022).</figcaption>
 </figure>
 
 I have also worked on the marine chromium (Cr) cycle ([Pöppelmeier et al., 2021](https://doi.org/10.5194/bg-18-5447-2021)). Cr and its isotopes hold great potential as a tracer for past oxygenation and marine biological activity. I implemented this tracer in the Bern3D model and performed first assessments on the first-order controls that shape the global distribution of dissolved Cr and its two most important oxidation states Cr(III) and Cr(VI).
