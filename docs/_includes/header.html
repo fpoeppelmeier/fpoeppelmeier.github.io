@@ -1,9 +1,9 @@
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="{{ '/' | relative_url }}">{{ site.data.profile.name }}</a>
-    <input type="checkbox" id="nav-toggle" class="nav-toggle">
-    <label for="nav-toggle" class="nav-burger" aria-label="Open navigation"><span></span></label>
-    <nav class="site-nav" aria-label="Main">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menu" aria-controls="site-nav">
+    <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span></label>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
       {%- for item in site.data.navigation %}
       <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
       {%- endfor %}

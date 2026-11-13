@@ -106,6 +106,15 @@
     count.textContent = shown === items.length ? items.length + " entries" : shown + " of " + items.length + " entries";
   }
 
+  // Keep sticky year headings (and anchor jumps) clear of the sticky toolbar.
+  function measureToolbar() {
+    var sticky = getComputedStyle(bar).position === "sticky";
+    document.documentElement.style.setProperty("--toolbar-h", sticky ? bar.offsetHeight + "px" : "0px");
+  }
+  if (window.ResizeObserver) new ResizeObserver(measureToolbar).observe(bar);
+  window.addEventListener("resize", measureToolbar);
+  measureToolbar();
+
   input.addEventListener("input", apply);
   buttons.forEach(function (btn) {
     btn.addEventListener("click", function () {

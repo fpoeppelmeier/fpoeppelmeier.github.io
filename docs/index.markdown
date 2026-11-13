@@ -6,4 +6,4 @@ I am an Assistant Professor in Global Biogeochemical Modelling at the University
 
 My research interests cover a broad range of topics, including the geochemical understanding of trace elements in the ocean and sediments used to reconstruct water mass properties, the stability conditions of the AMOC and its influence on the carbon cycle, and the interaction of continental ice sheets with the ocean during glacial-interglacial cycles. Ultimately, I aim to better understand the climate system to improve future projections of anthropogenic climate change.
 
-Since summer 2026, my group works on the ERC Starting Grant project [BGCTip]({{ "/bgctip/" | relative_url }}), which investigates tipping dynamics of marine biogeochemistry from past climate transitions. Look out for new results from the project.
+Since May 2026, my group has been working on the ERC Starting Grant project [BGCTip]({{ "/bgctip/" | relative_url }}), which investigates tipping dynamics of marine biogeochemistry from past climate transitions. Look out for new results from the project.

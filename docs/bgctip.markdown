@@ -19,7 +19,7 @@ BGCTip is an ERC Starting Grant project that investigates how abrupt shifts in t
 
 ## Why it matters
 
-The ocean is the largest carbon reservoir that readily exchanges carbon with the atmosphere. A key part of this is the *biological pump*: plankton at the sea surface turn dissolved carbon and nutrients into organic matter, part of which sinks and is stored in the deep ocean. Without it, atmospheric CO<sub>2</sub> would be roughly 50% higher at equilibrium. Yet how the biological pump will respond to ongoing warming remains highly uncertain.
+The ocean is the largest carbon reservoir that readily exchanges carbon with the atmosphere. A key part of this is the *biological pump*: plankton at the sea surface turn dissolved carbon and nutrients into organic matter, part of which sinks and is stored in the deep ocean. Without it, atmospheric CO<sub>2</sub> would be roughly twice as high at equilibrium. Yet how the biological pump will respond to ongoing warming remains highly uncertain.
 
 At the same time, continued climate change may push parts of the Earth system across **tipping points**, for example the Atlantic Meridional Overturning Circulation (AMOC) or the large ice sheets. Crossing one tipping point can cascade into others, including the marine carbon cycle. How large these knock-on effects could be is largely unknown, which adds unquantified uncertainty to climate projections.
 

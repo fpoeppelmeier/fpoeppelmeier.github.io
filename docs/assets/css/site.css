@@ -47,7 +47,7 @@
 
 /* ---------- Base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--header-h) + 16px); }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--header-h) + var(--toolbar-h, 0px) + 16px); }
 body {
   margin: 0;
   background: var(--bg);
@@ -86,6 +86,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.2; 
 /* ---------- Header ---------- */
 .site-header {
   position: sticky; top: 0; z-index: 50;
+  background: var(--bg);
   background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: saturate(1.4) blur(10px);
   -webkit-backdrop-filter: saturate(1.4) blur(10px);
@@ -103,6 +104,8 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.2; 
 .nav-toggle, .nav-burger { display: none; }
 
 @media (max-width: 760px) {
+  .nav-toggle { display: block; position: absolute; width: 1px; height: 1px; margin: 0; opacity: 0; pointer-events: none; }
+  .nav-toggle:focus-visible + .nav-burger { outline: 2px solid var(--accent); outline-offset: 2px; }
   .nav-burger { display: grid; place-items: center; width: 44px; height: 44px; cursor: pointer; border-radius: 10px; }
   .nav-burger span, .nav-burger span::before, .nav-burger span::after {
     content: ""; display: block; width: 20px; height: 2px; background: var(--text); border-radius: 2px; position: relative; transition: transform .2s;
@@ -301,7 +304,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.2; 
 
 .pub-group { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); gap: 0 24px; margin: 0 !important; border-bottom: 1px solid var(--line); padding: 18px 0; }
 .pub-group[hidden] { display: none; }
-.pub-group h3 { margin: 0; padding-top: 14px; font-size: 1.5rem; color: var(--accent); position: sticky; top: calc(var(--header-h) + 90px); align-self: start; }
+.pub-group h3 { margin: 0; padding-top: 14px; font-size: 1.5rem; color: var(--accent); position: sticky; top: calc(var(--header-h) + var(--toolbar-h, 0px)); align-self: start; }
 .pub-group[data-kind="review"] h3, .pub-group[data-kind="other"] h3 { font-size: 1.05rem; line-height: 1.3; }
 .pub-list { list-style: none; padding: 0 !important; margin: 0 !important; }
 .pub { padding: 14px 0; margin: 0 !important; font-size: .95rem; line-height: 1.6; }
